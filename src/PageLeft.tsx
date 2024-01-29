@@ -1,14 +1,19 @@
 import Page from './Page';
+import Players from "./Players";
 
 function PageLeft() {
     return (
         <Page>
-            <button>PLAYERS</button>
-            <button>NOTES</button>
-            <button>NPC</button>
-            <button>MONSTERS</button>
-            <button>SPELLS</button>
-            <button>RULES</button>
+            <nav>
+                <button>PLAYERS</button>
+                <button>NOTES</button>
+                <button>NPC</button>
+                <button>MONSTERS</button>
+                <button>SPELLS</button>
+                <button>RULES</button>
+            </nav>
+            <hr />
+            <Players />
         </Page>
     )
 }
