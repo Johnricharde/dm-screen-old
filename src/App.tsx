@@ -1,5 +1,5 @@
-import PageLeft from './PageLeft';
-import PageRight from './PageRight';
+import PageLeft from './LeftPage/PageLeft';
+import PageRight from './RightPage/PageRight';
 
 function App() {
   return (

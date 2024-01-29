@@ -1,4 +1,4 @@
-import Page from './Page';
+import Page from '../Page';
 import Players from "./Players";
 import Notes from "./Notes";
 import Npc from "./Npc";
@@ -28,7 +28,6 @@ function PageLeft() {
             {activeComponent === 'Monsters' && <Monsters />}
             {activeComponent === 'Spells' && <Spells />}
             {activeComponent === 'Rules' && <Rules />}
-            <hr />
         </Page>
     )
 }

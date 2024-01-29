@@ -1,4 +1,4 @@
-import Page from './Page';
+import Page from '../Page';
 import Combat from "./Combat";
 import DungeonMap from "./DungeonMap";
 import React, { useState } from "react";
