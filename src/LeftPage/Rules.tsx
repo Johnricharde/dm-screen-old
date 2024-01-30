@@ -3,7 +3,6 @@ function Rules() {
         <div>
             <input type="text" placeholder="Search.."></input>
             <hr />
-            <h2><span className="font-bold">Rules:</span> </h2>
             <h1 className="text-2xl font-bold">Petrified</h1>
             <ul className="list-disc list-inside">
                 <li>A petrified creature is transformed, along with any

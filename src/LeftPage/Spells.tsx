@@ -3,7 +3,6 @@ function Spells() {
         <div>
             <input type="text" placeholder="Search.."></input>
             <hr />
-            <h2><span className="font-bold">Spell:</span> </h2>
             <h1 className="text-2xl font-bold">Burning Hands</h1>
             <h2 className="italic">1st-level evocation</h2>
             <h2><span className="font-bold">Casting Time: </span>

@@ -3,7 +3,6 @@ function Monsters() {
         <div>
             <input type="text" placeholder="Search.."></input>
             <hr />
-            <h2><span className="font-bold">Monster:</span> </h2>
             <h1>Goblin</h1>
             <h2 className="italic">Small Humanoid (Goblinoid), Neutral Evil</h2>
             <hr />
