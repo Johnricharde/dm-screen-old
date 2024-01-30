@@ -13,7 +13,8 @@ It is similiar in use to the physical version called a "DM Screen" or "GM Screen
 
 ### Other:
 ### Acknowledgements:
-It has not yet been implemented but this app will eventually use a "D&D 5th edition" API.
+- Original Concept idea came from Stian Sundby at GET Academy
+- It has not yet been implemented but this app will eventually use a "D&D 5th edition" API.
 ### Lessons learned:
 Familiarized myself with React.js, Vite and Tailwind CSS.
 
@@ -21,7 +22,7 @@ Familiarized myself with React.js, Vite and Tailwind CSS.
 
 ## MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2024 John Richard Espedal
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
