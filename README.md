@@ -13,6 +13,7 @@ It is similiar in use to the physical version called a "DM Screen" or "GM Screen
 
 ### Other:
 ### Acknowledgements:
+It has not yet been implemented but this app will eventually use a "D&D 5th edition" API.
 ### Lessons learned:
 Familiarized myself with React.js, Vite and Tailwind CSS.
 
