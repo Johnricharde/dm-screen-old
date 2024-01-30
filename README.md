@@ -4,6 +4,19 @@
 This project is a web-app with the purpose of helping the game master of a D&D campaign keep track of information.
 It is similiar in use to the physical version called a "DM Screen" or "GM Screen".
 
+Why is this needed?
+If you've ever been the DM of a group playing D&D then you know that it can be quite chaotic to try and keep track of everything all at once.
+This is what this project is going to try to remedy.
+
+For those who are already familiar with D&D, here are some of the things that this app might be able to help with:
+- Easy Search access to information contained within the D&D 5E rulebook, spellbook or bestiary.
+- Keep track of the initiativ order in combat while also displaying the current initiativ holders abilities
+  (Example: If it's a goblins turn then it will display your available actions as "Nimble Escape", "Schimitar" and "Shortbow")
+- Keep your own personal notes within the web-app.
+
+  Other functionality might be added as the project grows.
+
+
 ### Tech:
 - React.js
 - Vite
